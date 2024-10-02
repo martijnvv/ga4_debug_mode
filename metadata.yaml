@@ -1,5 +1,5 @@
 homepage: "https://www.martijnvanvreeden.nl"
 documentation: "https://github.com/martijnvv/ga4_debug_mode"
 versions:
-  - sha: 9834a5f84d54dd70ee64d3f4bac11fd16c6bc388
+  - sha: 94203a99fb539a0b931afa231f4f28c6517698fa
     changeNotes: Initial release.
